@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+[![Header](https://raw.githubusercontent.com/AldresGit/AldresGit/master/contact.gif)](https://github.com/AldresGit/)
 
-You can use the [editor on GitHub](https://github.com/AldresGit/AldresGit.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##### Hola, soy Alberto:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 🎓 Graduado en Ingeniería del Software - UMA
+- :test_tube: Fullstack Developer en proceso.
+- :mailbox: ¡Puedes contactar conmigo en los siguientes enlaces!
 
-### Markdown
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](albertorodrigueztorres95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-rodr%C3%ADguez-torres-726730193/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### Lenguajes que uso
 
-```markdown
-Syntax highlighted code block
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=c%23)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+##### Algunas tecnologías con las que he trabajado
 
-1. Numbered
-2. List
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AldresGit/AldresGit.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+:earth_africa: From [AldresGit](https://github.com/AldresGit)
