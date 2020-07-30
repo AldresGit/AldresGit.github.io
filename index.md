@@ -1,4 +1,9 @@
-[![Header](https://raw.githubusercontent.com/AldresGit/AldresGit/master/contact.gif)](https://github.com/AldresGit/)
+## Bienvenido a mi pagina web
+
+You can use the [editor on GitHub](https://github.com/AldresGit/AldresGit.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ##### Hola, soy Alberto:
 
