@@ -4,9 +4,9 @@
 
 ##### Soy Alberto:
 
-- 🎓 Graduado en Ingeniería del Software - UMA
-- :test_tube: Fullstack Developer en proceso.
-- :mailbox: ¡Puedes contactar conmigo en los siguientes enlaces!
+- Graduado en Ingeniería del Software - UMA
+- Fullstack Developer en proceso.
+- ¡Puedes contactar conmigo en los siguientes enlaces!
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](albertorodrigueztorres95@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-rodr%C3%ADguez-torres-726730193/)
@@ -31,5 +31,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
 
+Viendo bugs aparecer en todos lados al intentar arreglarlos
 
-:earth_africa: From [AldresGit](https://github.com/AldresGit)
+![Alt Text](https://www.trecebits.com/wp-content/uploads/2015/08/slide_303383_2577027_free.gif)
+
+De [AldresGit](https://github.com/AldresGit)
